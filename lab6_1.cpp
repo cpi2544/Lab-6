@@ -3,8 +3,6 @@ using namespace std;
 
 int main(){
     int i ,even = 0 ,odd = 0;
-    cout << "Enter an integer: ";
-    cin >> i;
     while (i != 0)
     {
          cout << "Enter an integer: ";
