@@ -9,6 +9,9 @@ int main(){
     {
          cout << "Enter an integer: ";
          cin >> i;
+         if (i==0){
+             break;
+         }
          if  (i%2 == 0)
          {
              even += 1;
