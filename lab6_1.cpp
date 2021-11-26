@@ -17,7 +17,7 @@ int main(){
              even += 1;
          }else{
              odd += 1;
-         }
+         } 
     }
     cout << "#Even numbers = " << even <<"\n";
     cout << "#Odd numbers = " << odd;
