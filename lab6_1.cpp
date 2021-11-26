@@ -9,7 +9,8 @@ int main(){
     {
          cout << "Enter an integer: ";
          cin >> i;
-         if (i==0){
+         if (i==0)
+         {
              break;
          }
          if  (i%2 == 0)
